@@ -27,7 +27,7 @@ A real-time chat application built with React, enabling users to communicate ins
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/chatApp-cpy.git
+    git clone https://github.com/yourusername/chatApp.git
     cd chatApp
     ```
 2. Install dependencies:
@@ -66,4 +66,5 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 ## License
 
 This project is licensed under the MIT License.
+
 
